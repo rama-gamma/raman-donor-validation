@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it together with the original dataset."
+title: "Code for: Patient-Level Reassessment of Breast Raman Spectroscopy: Data Leakage and Limits of Subtype Classification"
+version: 1.0.0
+date-released: 2026-10-29
+license: MIT
+type: software
+authors:
+  - family-names: Amiri
+    given-names: Seyedeh Rahemeh
+    affiliation: "University at Albany, State University of New York"
+    email: samiri@albany.edu
+  - family-names: Khoshnami
+    given-names: Ali
+    affiliation: "Shiraz University"
+keywords: [Raman spectroscopy, breast cancer, data leakage, cross-validation, conformal prediction, reproducibility]
+references:
+  - type: dataset
+    title: "Raman spectroscopy analysis code for label-free classification of breast cancer subtypes (version 2)"
+    authors:
+      - family-names: Zhu
+        given-names: Zhiyu
+      - family-names: Ezzat
+        given-names: Ahmed
+      - family-names: Roddan
+        given-names: Alfie
+    doi: 10.5281/zenodo.21901443
+    year: 2026
+  - type: article
+    title: "Label-free classification of breast cancer subtypes in ex vivo human tissues using Raman spectroscopy and machine learning"
+    authors:
+      - family-names: Ezzat
+        given-names: Ahmed
+    journal: "Scientific Reports"
+    volume: 16
+    start: 26557
+    year: 2026
+    doi: 10.1038/s41598-026-54071-5

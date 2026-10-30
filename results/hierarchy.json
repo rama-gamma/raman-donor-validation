@@ -1,0 +1,7 @@
+{
+ "same point (repeat)": 0.9389212664254524,
+ "same sample, other point": 0.9081552386746106,
+ "same class, other donor": 0.9003955229093302,
+ "points": 299,
+ "spectra_per_point_mean": 2.1438127090301005
+}
